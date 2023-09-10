@@ -10,4 +10,5 @@
 + crosshair indicators
 + en trashtalk
 + invis hack clantag
++ bug fix
 + other
